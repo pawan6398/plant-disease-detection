@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Plant-Disease-Detection
 A project for detecting plant diseases using AI for sustainable agriculture.
 
@@ -78,3 +79,7 @@ Adam Optimizer and Categorical Crossentropy loss function used.
 🔹 Integrate mobile app support for farmers
 
 🔹 Add voice-based disease detection for easy accessibility
+=======
+# plant-disease-detection
+This project focuses on developing an intelligent system that detects and classifies plant diseases from leaf images using Machine Learning and Computer Vision techniques. The goal is to assist farmers and agricultural professionals in identifying plant diseases at an early stage to improve crop yield and reduce losses.
+>>>>>>> 733a6a49d56b9b9b86e152ead4834407ea573909
